@@ -1,5 +1,5 @@
 # Usage of Tkinter
-Instala python3 aqui! https://www.python.org/downloads/
+Instala python3 aqui! https://www.python.org/downloads/  
 Uso do tkinter em python3 para construir interfaces gráficas.
 
 ## Criar widgets básicos na interface
